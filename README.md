@@ -16,21 +16,21 @@
 ##### 2. Pour l'épreuve E4
 
  - Je me présente et présente mon parcours, j'affiche mon CV
- - Je parle des projets que j'ai réalisé, je bascule sur les pages correspondantes
- - Je parle des stages que j'ai effectué et des projets auxquels j'ai participé, je bascule sur les pages correspondantes
+ - Je parle des projets que j'ai réalisé,je bascule sur les pages correspondantes
+ - Je parle des stages que j'ai effectué et des projets auxquels j'ai participé,je bascule sur les pages correspondantes
  - Je présente mes bonnes pratiques : 
     - Respect des normes et des standards
     - Auto-formation
-    - Mise en oeuvre des tests (unitaires, d'intégration, fonctionnels, ...)
+    - Mise en oeuvre des tests (unitaires, d'intégration, fonctionnels,...)
     - Documentation
     - Gestion de version, développement collaboratif et gestion d'incidents
  - Je présente la façon dont j'organise ma veille et la façon dont je m'en sert
 
 ##### 3. Pour l'épreuve E5
 
- - J'héberge les documents présentant le contexte de mes AP
- - J'héberge le code source de mes AP
- - J'héberge mes productions (compte-rendus, documentations techniques, documentations utilisateurs, ...)
+ - J'héberge les documents présentant le contexte de mes PPE
+ - J'héberge le code source de mes PPE
+ - J'héberge mes productions (compte-rendus, documentations techniques, documentations utilisateurs,...)
  - J'ajoute des liens vers les applications téléchargeables ou testables en ligne
 
 ##### 4. Pour mon identité numérique
